@@ -23,5 +23,8 @@ al igual que alguna breve historia o anécdota sobre estos.
 **colores:** Para esta pagina web sobre mates, opte por elegir colores verdes, cremas y marrones, ya que siento que 
 son colores muy ligados al mate. Verde para la yerba y los tonos cremas y marrones para los materiales como la madera. 
 
+**Responsive:** Utilicé "Rem" para que el diseño escale correctamente, y una media query que reorganiza la galería de 
+imágenes en columna en pantallas menores a 600px, además de ajustar el menú de navegación para pantallas chicas.
+
 **Tipografía:** Usé Arial, para mantener un estilo prolijo y no distraer del contenido visual de la
 galería (las fotos de los mates).

@@ -1,4 +1,4 @@
-# TareaClase2
+# Galeria de Mates
 
 **Autor:** Franco Angelelli
 

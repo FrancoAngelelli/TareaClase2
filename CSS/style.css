@@ -66,6 +66,19 @@ main {
     gap: 0.9375rem;
 }
 
+.mate-info{
+    display:flex;
+    align-items:center;
+    gap:1.25rem;
+}
+.mate-info .foto {
+    flex-shrink: 0;
+}
+
+.mate-info .p {
+    margin:0;
+}
+
 @media(max-width: 600px) {
     .galeria {
         flex-direction: column;
@@ -83,6 +96,11 @@ main {
     nav a {
         font-size:0.875rem;
         padding:0.4rem 0.8rem;
+    }
+
+    .mate-info {
+        flex-direction:column;
+        align-items:flex-start;
     }
 
 }
